@@ -1,12 +1,12 @@
 # HR-Employee-Analytics
 End-to-end HR Analytics project using Python, MySQL, and Power BI on IBM HR Dataset
-# 🧑‍💼 HR Employee Attrition & Performance Analytics
+# HR Employee Attrition & Performance Analytics
 
 An end-to-end Data Analytics project on IBM HR Dataset using Python, MySQL, and Power BI.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes employee attrition and performance patterns using real-world IBM HR data of **1,470 employees** across 3 departments.
 
 ---
@@ -20,7 +20,7 @@ This project analyzes employee attrition and performance patterns using real-wor
 
 ---
 
-## 📁 Files in this Repository
+## Files in this Repository
 | File | Description |
 |------|-------------|
 | `Employee_Attrition__Performance_Analytics.ipynb` | Python Notebook |
@@ -31,7 +31,7 @@ This project analyzes employee attrition and performance patterns using real-wor
 
 ---
 
-## 📊 Dashboard Pages
+##  Dashboard Pages
 - **Page 1** — Attrition Overview
 - **Page 2** — Workforce Demographics
 - **Page 3** — Salary & Job Analysis
@@ -39,7 +39,7 @@ This project analyzes employee attrition and performance patterns using real-wor
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 - R&D has highest attrition (56.12%)
 - Age group 18-25 has highest attrition rate (26.8%)
 - Employees with OverTime have higher attrition
